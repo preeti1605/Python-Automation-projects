@@ -12,15 +12,15 @@ Built using `pathlib` with safety-first practices like dry runs and controlled e
 
 ## 📂 Example
 **Before**
-file.pdf
-photo.png
-notes.txt
+- file.pdf
+- photo.png
+- notes.txt
 
 
 **After**
-automation_1.pdf
-automation_2.png
-automation_3.txt
+- automation_1.pdf
+- automation_2.png
+- automation_3.txt
 
 
 ## ▶️ How to Run
@@ -28,7 +28,7 @@ python3 bulk_rename.py
 
 
 ## 🧠 Concepts Used
-pathlib
-loops & counters
-file renaming
-automation safety patterns
+- pathlib
+- loops & counters
+- file renaming
+- automation safety patterns
